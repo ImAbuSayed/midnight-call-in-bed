@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-call-in-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Midnight Call In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-call-in-bed/) |
+| **Get License** | [Request Licensing for Midnight Call In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-call-in-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Hear the static on the line, but your voice is crystal clear
+> Got the moonlight pouring in, wishing you were lying here
+> Every word you whisper low sends a shiver down my spine
+> It’s a quarter after two, and I’m glad you’re on the line
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
