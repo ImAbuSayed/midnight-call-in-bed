@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-call-in-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Midnight Call In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-call-in-bed/) |
+| **Get License** | [Secure Licensing Rights for Midnight Call In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-call-in-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `098c7d3aa21f7ee2452a8dad29ea8dad74ff44d572662e40d775c5844383914a` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
